@@ -1,6 +1,6 @@
 %define name pathalizer
 %define version 0.7
-%define release %mkrel 1
+%define release %mkrel 3
 
 Summary: A web path analyzer
 Name: %{name}
