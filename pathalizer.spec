@@ -1,7 +1,7 @@
 Summary:	A web path analyzer
 Name:		pathalizer
 Version:	0.7
-Release:	5
+Release:	6
 License:	GPLv2+
 Group:		Monitoring
 Url:		http://pathalizer.sourceforge.net/
