@@ -4,7 +4,7 @@ Version:	0.7
 Release:	6
 License:	GPLv2+
 Group:		Monitoring
-Url:		http://pathalizer.sourceforge.net/
+Url:		https://pathalizer.sourceforge.net/
 Source0:	%{name}-%{version}.tar.bz2
 
 %description
