@@ -7,6 +7,7 @@ Group:		Monitoring
 Url:		https://pathalizer.sourceforge.net/
 Source0:	%{name}-%{version}.tar.bz2
 
+BuildRequires:	make
 %description
 Pathalizer is a tool to visualize the paths most users take when browsing
 a website. This information can then be used to decide how to improve the
